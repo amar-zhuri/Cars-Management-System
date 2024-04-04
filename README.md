@@ -1,7 +1,9 @@
 # Cars Management System
 
 [![Java](https://img.shields.io/badge/Java-11-blue)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html)
-
+[![Lombok](https://img.shields.io/badge/Lombok-1.18.20-orange)](https://projectlombok.org/)
+[![Maven](https://img.shields.io/badge/Maven-3.8.4-blueviolet)](https://maven.apache.org/)
+[![Jackson](https://img.shields.io/badge/Jackson-2.13.0-yellow)](https://github.com/FasterXML/jackson)
 
 ## Overview
 The Cars Management System is a robust and comprehensive solution for managing automotive inventory and data. Engineered with precision and crafted with excellence, this Java-based application offers a suite of advanced features tailored to meet the diverse needs of automotive industry professionals. From inventory management to data analysis, the system empowers users to streamline operations, optimize decision-making, and drive organizational success.
