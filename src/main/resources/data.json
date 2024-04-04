@@ -1,0 +1,348 @@
+[
+  {
+    "code": "123456",
+    "name": "Audi A8L",
+    "year": 2023,
+    "cartype": "Limousine",
+    "price": 30000,
+    "specifications": [
+      {
+        "id": "audia8_RX4",
+        "name":"Audi",
+        "power_hp": 300,
+        "weight_in_kg": 2500
+      }
+    ]
+  },
+  {
+    "code": "654321",
+    "name": "Ferrari Purosangue",
+    "year": 2023,
+    "cartype": "Sport",
+    "price": 100000,
+    "specifications": [
+      {
+        "id": "ferraripurosangue_RLL3",
+        "name":"Ferrari",
+        "power_hp": 650,
+        "weight_in_kg": 2000
+      }
+    ]
+  },
+  {
+    "code": "123123",
+    "name": "Rolls-Royce Cullinan",
+    "year": 2023,
+    "cartype": "SUV",
+    "price": 600000,
+    "specifications": [
+      {
+        "id": "rollsroycecullinan_K34",
+        "name":"Rolls-Royce",
+        "power_hp": 563,
+        "weight_in_kg": 2721
+      }
+    ]
+  },
+  {
+    "code": "987654",
+    "name": "Volvo XC60",
+    "year": 2023,
+    "cartype": "SUV",
+    "price": 80000,
+    "specifications": [
+      {
+        "id": "volvoxc60_VV60",
+        "name":"Volvo",
+        "power_hp": 250,
+        "weight_in_kg": 2400
+      }
+    ]
+  },
+  {
+    "code": "231789",
+    "name": "Mercedes-Benz GLE",
+    "year": 2021,
+    "cartype": "SUV",
+    "price": 125000,
+    "specifications": [
+      {
+        "id": "mercedesbenzgle_MRC3",
+        "name":"Mercedes-Benz",
+        "power_hp": 375,
+        "weight_in_kg": 3500
+      }
+    ]
+  },
+  {
+    "code": "111222",
+    "name": "Seat Arona",
+    "year": 2020,
+    "cartype": "SUV",
+    "price": 25000,
+    "specifications": [
+      {
+        "id": "seatarona_AR21",
+        "name":"Seat",
+        "power_hp": 115,
+        "weight_in_kg": 1239
+      }
+    ]
+  },
+  {
+    "code": "111333",
+    "name": "Audi A6",
+    "year": 2021,
+    "cartype": "Sedan",
+    "price": 60000,
+    "specifications": [
+      {
+        "id": "audia6_AUD20",
+        "name": "Audi",
+        "power_hp": 335,
+        "weight_in_kg": 1800
+      }
+    ]
+  },
+  {
+    "code": "333444",
+    "name": "Mercedes-Benz GLC",
+    "year": 2013,
+    "cartype": "SUV",
+    "price": 55000,
+    "specifications": [
+      {
+        "id": "mercedesglc_MER21",
+        "name": "Mercedes-Benz",
+        "power_hp": 255,
+        "weight_in_kg": 1900
+      }
+    ]
+  },
+  {
+    "code": "444555",
+    "name": "BMW 3 Series",
+    "year": 2014,
+    "cartype": "Sedan",
+    "price": 48000,
+    "specifications": [
+      {
+        "id": "bmw3series_BMW22",
+        "name": "BMW",
+        "power_hp": 320,
+        "weight_in_kg": 1650
+      }
+    ]
+  },
+  {
+    "code": "555666",
+    "name": "Lamborghini Huracan",
+    "year": 2013,
+    "cartype": "Super",
+    "price": 250000,
+    "specifications": [
+      {
+        "id": "lamborghinihuracan_LAM23",
+        "name": "Lamborghini",
+        "power_hp": 610,
+        "weight_in_kg": 1422
+      }
+    ]
+  },
+  {
+    "code": "666777",
+    "name": "Ford F-150",
+    "year": 2015,
+    "cartype": "Pickup",
+    "price": 45000,
+    "specifications": [
+      {
+        "id": "fordf150_FOR24",
+        "name": "Ford",
+        "power_hp": 395,
+        "weight_in_kg": 2200
+      }
+    ]
+  },
+  {
+    "code": "777488",
+    "name": "Volkswagen Passat",
+    "year": 2016,
+    "cartype": "Sedan",
+    "price": 36000,
+    "specifications": [
+      {
+        "id": "volkswagenpassat_VOL25",
+        "name": "Volkswagen",
+        "power_hp": 220,
+        "weight_in_kg": 1550
+      }
+    ]
+  },
+  {
+    "code": "888999",
+    "name": "Toyota RAV4",
+    "year": 2009,
+    "cartype": "SUV",
+    "price": 32000,
+    "specifications": [
+      {
+        "id": "toyotarav4_TOY26",
+        "name": "Toyota",
+        "power_hp": 203,
+        "weight_in_kg": 1600
+      }
+    ]
+  },
+  {
+    "code": "999000",
+    "name": "Mazda CX-5",
+    "year": 2013,
+    "cartype": "SUV",
+    "price": 28000,
+    "specifications": [
+      {
+        "id": "mazdacx5_MAZ27",
+        "name": "Mazda",
+        "power_hp": 187,
+        "weight_in_kg": 1500
+      }
+    ]
+  },
+  {
+    "code": "000111",
+    "name": "Jeep Grand Cherokee",
+    "year": 2011,
+    "cartype": "SUV",
+    "price": 40000,
+    "specifications": [
+      {
+        "id": "jeepgrandcherokee_JEE28",
+        "name": "Jeep",
+        "power_hp": 295,
+        "weight_in_kg": 2000
+      }
+    ]
+  },
+  {
+    "code": "222333",
+    "name": "Honda Accord",
+    "year": 2017,
+    "cartype": "Sedan",
+    "price": 28000,
+    "specifications": [
+      {
+        "id": "hondaaccord_HON29",
+        "name": "Honda",
+        "power_hp": 192,
+        "weight_in_kg": 1400
+      }
+    ]
+  },
+  {
+    "code": "444333",
+    "name": "Kia Sorento",
+    "year": 2018,
+    "cartype": "SUV",
+    "price": 35000,
+    "specifications": [
+      {
+        "id": "kiasorento_KIA30",
+        "name": "Kia",
+        "power_hp": 281,
+        "weight_in_kg": 1850
+      }
+    ]
+  },
+  {
+    "code": "777888",
+    "name": "Volvo XC60",
+    "year": 2016,
+    "cartype": "SUV",
+    "price": 45000,
+    "specifications": [
+      {
+        "id": "volvoxc60_VOL31",
+        "name": "Volvo",
+        "power_hp": 300,
+        "weight_in_kg": 1750
+      }
+    ]
+  },
+  {
+    "code": "999222",
+    "name": "Lexus ES",
+    "year": 2019,
+    "cartype": "Sedan",
+    "price": 42000,
+    "specifications": [
+      {
+        "id": "lexuses_LEX32",
+        "name": "Lexus",
+        "power_hp": 215,
+        "weight_in_kg": 1650
+      }
+    ]
+  },
+  {
+    "code": "121212",
+    "name": "Fiat 500",
+    "year": 2007,
+    "cartype": "Compact",
+    "price": 18000,
+    "specifications": [
+      {
+        "id": "fiat500_FIA33",
+        "name": "Fiat",
+        "power_hp": 101,
+        "weight_in_kg": 950
+      }
+    ]
+  },
+  {
+    "code": "151515",
+    "name": "Hyundai Santa Fe",
+    "year": 2018,
+    "cartype": "SUV",
+    "price": 38000,
+    "specifications": [
+      {
+        "id": "hyundaisantafe_HYU34",
+        "name": "Hyundai",
+        "power_hp": 235,
+        "weight_in_kg": 1700
+      }
+    ]
+  },
+  {
+    "code": "181818",
+    "name": "Acura TLX",
+    "year": 2015,
+    "cartype": "Sedan",
+    "price": 32000,
+    "specifications": [
+      {
+        "id": "acuratlx_ACU35",
+        "name": "Acura",
+        "power_hp": 272,
+        "weight_in_kg": 1600
+      }
+    ]
+  },
+  {
+    "code": "191919",
+    "name": "Nissan Rogue",
+    "year": 2023,
+    "cartype": "SUV",
+    "price": 29000,
+    "specifications": [
+      {
+        "id": "nissanrogue_NIS36",
+        "name": "Nissan",
+        "power_hp": 181,
+        "weight_in_kg": 1700
+      }
+    ]
+  }
+]
+
